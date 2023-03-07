@@ -1,0 +1,16 @@
+G:\Coding\ipv6-to-domain\ipv6-to-domain\ipv6-to-domain\bin\Release\net5.0\ipv6-to-domain.exe
+G:\Coding\ipv6-to-domain\ipv6-to-domain\ipv6-to-domain\bin\Release\net5.0\ipv6-to-domain.deps.json
+G:\Coding\ipv6-to-domain\ipv6-to-domain\ipv6-to-domain\bin\Release\net5.0\ipv6-to-domain.runtimeconfig.json
+G:\Coding\ipv6-to-domain\ipv6-to-domain\ipv6-to-domain\bin\Release\net5.0\ipv6-to-domain.runtimeconfig.dev.json
+G:\Coding\ipv6-to-domain\ipv6-to-domain\ipv6-to-domain\bin\Release\net5.0\ipv6-to-domain.dll
+G:\Coding\ipv6-to-domain\ipv6-to-domain\ipv6-to-domain\bin\Release\net5.0\ipv6-to-domain.pdb
+G:\Coding\ipv6-to-domain\ipv6-to-domain\ipv6-to-domain\obj\Release\net5.0\ipv6-to-domain.csproj.AssemblyReference.cache
+G:\Coding\ipv6-to-domain\ipv6-to-domain\ipv6-to-domain\obj\Release\net5.0\ipv6-to-domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Coding\ipv6-to-domain\ipv6-to-domain\ipv6-to-domain\obj\Release\net5.0\ipv6-to-domain.AssemblyInfoInputs.cache
+G:\Coding\ipv6-to-domain\ipv6-to-domain\ipv6-to-domain\obj\Release\net5.0\ipv6-to-domain.AssemblyInfo.cs
+G:\Coding\ipv6-to-domain\ipv6-to-domain\ipv6-to-domain\obj\Release\net5.0\ipv6-to-domain.csproj.CoreCompileInputs.cache
+G:\Coding\ipv6-to-domain\ipv6-to-domain\ipv6-to-domain\obj\Release\net5.0\ipv6-to-domain.dll
+G:\Coding\ipv6-to-domain\ipv6-to-domain\ipv6-to-domain\obj\Release\net5.0\refint\ipv6-to-domain.dll
+G:\Coding\ipv6-to-domain\ipv6-to-domain\ipv6-to-domain\obj\Release\net5.0\ipv6-to-domain.pdb
+G:\Coding\ipv6-to-domain\ipv6-to-domain\ipv6-to-domain\obj\Release\net5.0\ipv6-to-domain.genruntimeconfig.cache
+G:\Coding\ipv6-to-domain\ipv6-to-domain\ipv6-to-domain\obj\Release\net5.0\ref\ipv6-to-domain.dll
